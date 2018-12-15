@@ -1,0 +1,2 @@
+# opserver
+opserver collect server
